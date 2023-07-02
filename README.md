@@ -1,6 +1,6 @@
 # cabonara_tracker
 
-Tracking for you
+Tracking Carbonara for you
 
 ## Getting Started
 
